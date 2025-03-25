@@ -41,14 +41,14 @@
 ## 使用說明
 
 0. 修改配置：
-    - 'WIFI_SSID' 'WIFI_PASSWORD' Wi-Fi 名稱和密碼
-    - 'IFTTT_URI' IFTTT Webhook 密鑰
+    - `WIFI_SSID` `WIFI_PASSWORD` Wi-Fi 名稱和密碼
+    - `IFTTT_URI` IFTTT Webhook 密鑰
 
 1. 開機後選擇模式：
    - 模式 1：重置密碼
    - 模式 2：解鎖門鎖
-   - 按 '#' 鍵確定/鎖定
-   - 按 '*' 鍵清除
+   - 按 `#` 鍵確定/鎖定
+   - 按 `*` 鍵清除
 
 2. 密碼重置：
    - 輸入當前密碼 (預設為 8888)
