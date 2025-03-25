@@ -1,7 +1,7 @@
-#include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
-#include <Wire.h>
 #include <Keypad.h>
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
 
 // Wi-Fi & IFTTT
 const String WIFI_SSID = "your_ssid";
